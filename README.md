@@ -1,2 +1,2 @@
 # mercure-aix-duranne
-index.html
+VCard Hotel Mercure Aix en Provence la Duranne
